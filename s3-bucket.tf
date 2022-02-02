@@ -8,5 +8,4 @@ module "s3_bucket" {
   versioning = {
     enabled = true
   }
-
 }
